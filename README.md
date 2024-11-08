@@ -11,7 +11,7 @@ With 5+ years of experience in Android development, I can help you build, scale,
 ### 🛠️ My acknowledge:
 *My main knowledge is related to the world of Android app development and everything that revolves around it:*
 - Kotlin
-- Clean Architecture
+- Clean Architecture and SOLID Principles
 - MVVM
 - MVI
 - Android Sdk
