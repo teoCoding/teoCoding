@@ -4,11 +4,12 @@
 With 5+ years of experience in Android development, I can help you build, scale, and maintain your mobile applications.
 
 ### 📱 My published apps:
+*When developing my apps I focused on user experience and ease of use:*
 - 🎂 [Birthday Reminder](https://play.google.com/store/apps/details?id=com.apputilose.teo.birthdayremember)
 - 💰 [Budget Tracker](https://play.google.com/store/apps/details?id=com.teocoding.budgettracker)
 
 ### 🛠️ My acknowledge:
-
+*My main knowledge is related to the world of Android app development and everything that revolves around it:*
 - Kotlin
 - Clean Architecture
 - MVVM
@@ -22,7 +23,8 @@ With 5+ years of experience in Android development, I can help you build, scale,
 - Hilt
 - Koin
 
-## Featured Projects
+*and more...*
+## Featured Open Source Projects
 - **[TaskTrackr](https://github.com/teoCoding/TaskTrackr)**:
   TaskTrackr is your go-to companion for effortlessly managing your projects and tasks, whether you're a professional, student, or hobbyist.
   With intuitive features and a sleek interface, TaskTrackr helps you stay organized, focused, and productive.
