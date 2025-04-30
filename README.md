@@ -38,6 +38,7 @@ With 5+ years of experience in Android development, I can help you build, scale,
 - Node.js
 - EJS - Embedded JavaScript templating
 - Ktor server Development
+- Docker
 - AWS - Amazon Web Services
 
 **🏄‍♂️ I am currently exploring iOS and KMP Development**
