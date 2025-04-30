@@ -47,6 +47,7 @@ With 5+ years of experience in Android development, I can help you build, scale,
 
 **[X](https://x.com/teo_coding) | [LinkedIn](https://www.linkedin.com/in/teo-coding-0b53951ab/)**
 
+*”In some ways, programming is like painting. You start with a blank canvas and certain basic raw materials. You use a combination of science, art and craft to determine what to do with them.”*
 
 <!--
 **teoCoding/teoCoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
